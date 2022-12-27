@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/for-my-Blue/static/css/main.d036cbbc.css",
+    "main.js": "/for-my-Blue/static/js/main.9a4f164a.js",
+    "static/media/front-cover.jpg": "/for-my-Blue/static/media/front-cover.58202c3f914842b5b942.jpg",
+    "static/media/angry.jpg": "/for-my-Blue/static/media/angry.546c6c48161d108af15c.jpg",
+    "static/media/serious.jpg": "/for-my-Blue/static/media/serious.dbc382d68b67ea4e3f39.jpg",
+    "static/media/sad.jpg": "/for-my-Blue/static/media/sad.cc0aaa3694c174efbb52.jpg",
+    "static/media/hungry.jpg": "/for-my-Blue/static/media/hungry.247104be742f1fd41a4e.jpg",
+    "static/media/happy.jpg": "/for-my-Blue/static/media/happy.187bccd49d843997d333.jpg",
+    "index.html": "/for-my-Blue/index.html",
+    "main.d036cbbc.css.map": "/for-my-Blue/static/css/main.d036cbbc.css.map",
+    "main.9a4f164a.js.map": "/for-my-Blue/static/js/main.9a4f164a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d036cbbc.css",
+    "static/js/main.9a4f164a.js"
+  ]
+}
